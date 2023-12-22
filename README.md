@@ -4,9 +4,12 @@
  <div align="center">
   <table>
     <tr>
-      <td><img src="https://cdn.discordapp.com/attachments/1063226213092569251/1186284631016886364/Screenshot_20231218-085453_Expo_Go.jpg?ex=6592b0a8&is=65803ba8&hm=da80578eb0424db7e4112f1a8a4e9b6a0ac6c120c41af221235c77ac4df72923&" alt="Logo" /></td>
-      <td><img src="https://cdn.discordapp.com/attachments/1063226213092569251/1186284630316425296/Screenshot_20231218-085435_Expo_Go.jpg?ex=6592b0a7&is=65803ba7&hm=994997b7a58dba7646a0892ee70f8e52bf3469c0f6d07c1e392fda7773d2f09a&" alt="Logo" /></td>
-      <td><img src="https://cdn.discordapp.com/attachments/1063226213092569251/1186284630740041738/Screenshot_20231218-085444_Expo_Go.jpg?ex=6592b0a8&is=65803ba8&hm=232ec412bbf54a3239b018a189df552bd95494e6cbe36723b4281995bce26f9c&" alt="Logo" /></td>
+      <td><img src="https://github.com/pierguinzani/todo-list/assets/49373874/29811df2-588f-4982-8712-5dd3963be1fc" alt="Logo" /></td>
+      <td><img src="https://github.com/pierguinzani/todo-list/assets/49373874/a3400b2a-3f14-43fb-a1b6-71e623dbcc87" alt="Logo" /></td>
+      <td><img src="https://github.com/pierguinzani/todo-list/assets/49373874/67358b13-692c-4445-b06d-e24ade09e8af" alt="Logo" /></td>
+      <td><img src="https://github.com/pierguinzani/todo-list/assets/49373874/a8a93a2d-d1f3-4721-9ff7-4e508a2c491e" alt="Logo" /></td>
+
+      
  </tr>
   </table>
 </div>
@@ -26,7 +29,7 @@ O teste consiste em desenvolver um aplicativo mobile de todo list, onde o usuár
 
 Você pode acessar o layout do projeto no link abaixo:
 
-* [Layout](https://www.figma.com/file/LpFdANkcqPnPnT0aQtgP96/ToDo-List-%E2%80%A2-Desafio-React-Native?type=design&node-id=0%3A1&mode=design&t=apnIEzs5FXwY0U7Q-1)
+* [Layout](https://www.figma.com/file/qp2hvPhLvbsPps3sgTNa9G/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?type=design&node-id=56-96&mode=design&t=ewNviBjkGGNaI4sC-0)
 
 🚨 Você precisa ter uma conta no [Figma](https://www.figma.com) para acessar o layout.
 
